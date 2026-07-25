@@ -1,6 +1,10 @@
 Problem
 
-With the rapid growth of Artificial Intelligence, fake news, phishing emails, fake job offers, fake notifications, and AI-generated misinformation are spreading across social media, emails, messaging apps, and websites. Many people struggle to determine whether digital content is genuine or fake, leading to scams, financial loss, identity theft, and misinformation.   https://truthcheck-ai.ai.studio/
+With the rapid growth of Artificial Intelligence, fake news, phishing emails, fake job offers, fake notifications, and AI-generated misinformation are spreading across social media, emails, messaging apps, and websites. Many people struggle to determine whether digital content is genuine or fake, leading to scams, financial loss, identity theft, and misinformation.
+live  demo
+depolyed app;
+
+https://truthcheck-ai.ai.studio/
 
 ---
 
