@@ -1,0 +1,6 @@
+{
+  "name": "TruthCheck AI",
+  "description": "AI-powered digital content verification system to detect fake news, phishing, scam messages, fake job offers, and fraudulent websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
