@@ -1,66 +1,41 @@
-Problem
+# TruthCheck AI
 
-With the rapid growth of Artificial Intelligence, fake news, phishing emails, fake job offers, fake notifications, and AI-generated misinformation are spreading across social media, emails, messaging apps, and websites. Many people struggle to determine whether digital content is genuine or fake, leading to scams, financial loss, identity theft, and misinformation.
+## A. Project Overview
+**App Name:** TruthCheck AI
+**Purpose:** To make the internet safer by helping users identify scams, misinformation, and AI-generated fake content quickly and accurately.
 
+**The Problem:** With the rapid growth of Artificial Intelligence, fake news, phishing emails, fake job offers, fake notifications, and AI-generated misinformation are spreading across social media, emails, messaging apps, and websites. Many people struggle to determine whether digital content is genuine or fake, leading to scams, financial loss, identity theft, and misinformation.
 
+**The Solution:** TruthCheck AI is an AI-powered web application that analyzes text and images to detect fake or suspicious content. The system provides a risk score, explains why the content may be unsafe, and offers recommendations to help users make informed decisions.
 
-live  demo
-depolyed app;
+## B. Live Application
+**Live URL:** https://truthcheck-ai.ai.studio/
 
-https://truthcheck-ai.ai.studio/
+## C. Core Features
+*   **Text & Image Analysis:** Scans user-submitted text and images for suspicious elements.
+*   **Fake Content Detection:** Identifies fake news, phishing messages, fake job offers, and fake notifications.
+*   **Risk Scoring:** Generates a specific risk level (Low, Medium, High) for the analyzed content.
+*   **Actionable Recommendations:** Explains the reasoning behind the risk score and provides safety recommendations for the user.
 
----
+## D. The AI Feature & System Instructions
+**What it does:** The AI feature utilizes Google Gemini AI to analyze content for signs of scams, phishing, or misinformation, returning a structured risk assessment and actionable advice.
 
-## Solution
+**System Prompts:**
+*Base System Prompt snippet:*
+> "You are an AI cybersecurity assistant. Analyze the user's content, identify signs of scams, phishing, fake news, fake job offers, fake notifications, or AI-generated misinformation. Return a risk level (Low, Medium, High), explain your reasoning clearly, and provide safety recommendations. Never make unsupported claims and encourage users to verify important information from trusted sources."
 
-TruthCheck AI is an AI-powered web application that analyzes text and images to detect fake or suspicious content. The system provides a risk score, explains why the content may be unsafe, and offers recommendations to help users make informed decisions.
+## E. Tools, Services, and AI Models Used
+*   **Frontend UI/UX:** React, TypeScript, Vite
+*   **Backend & Database:** Firebase
+*   **AI Provider & Models:** Google Gemini AI
 
-screen shot
-<img width="1600" height="1200" alt="image1" src="https://github.com/user-attachments/assets/d8bc75f3-1d14-4e1c-997c-a0206bd48790" />
-<img width="1600" height="1200" alt="image2" src="https://github.com/user-attachments/assets/3e9731fb-49e6-427c-84b6-c46affdb671f" />
-<img width="1600" height="1200" alt="image3" src="https://github.com/user-attachments/assets/2ac1f3e3-5fbe-48d0-a851-704035b0e18d" />
+## F. Application Screenshots
+1. **Application Interface:** ![Screenshot](screenshot.png)
+*(Note: Drag and drop actual image files into the GitHub editor to replace this placeholder)*
 
--## How to Run
+## G. How to Run the Project Locally
 
-1. Clone the repository.
-2. Install dependencies using npm install.
-3. Add your Gemini API key in the .env file.
-4. Run the project using npm run dev.
-5. Open the local URL shown in the terminal.--
-
-## AI Feature
-
-TruthCheck AI uses Google Gemini AI to analyze user-submitted text and images. It identifies fake news, phishing messages, fake job offers, fake notifications, and suspicious content. The AI provides a risk score, explains the reasons, and gives safety recommendations.
-
-### AI System Prompt
-
-You are an AI cybersecurity assistant. Analyze the user's content, identify signs of scams, phishing, fake news, fake job offers, fake notifications, or AI-generated misinformation. Return a risk level (Low, Medium, High), explain your reasoning clearly, and provide safety recommendations. Never make unsupported claims and encourage users to verify important information from trusted sources.
-
----
-
-## Tech Stack
-
-- React
-- TypeScript
-- Vite
-- Firebase
-- Google Gemini AI
-
----
-
-## Purpose
-
-TruthCheck AI aims to make the internet safer by helping users identify scams, misinformation, and AI-generated fake content quickly and accurately.
----
-
-## Future Improvements
-
-- Add support for more languages.
-- Improve AI detection accuracy.
-- Save previous analysis history.
-- Add dark mode.
-- Add browser extension support.
-
-## License
-
-TruthCheck AI was developed for educational purposes as part of an AI course final project. It is intended to demonstrate AI-powered fake content detection and is not a replacement for professional verification.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/malikmona793-ship-it/TruthcheckAI.git](https://github.com/malikmona793-ship-it/TruthcheckAI.git)
+   cd TruthcheckAI
