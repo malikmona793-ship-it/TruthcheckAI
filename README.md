@@ -41,9 +41,23 @@
 ## G. How to Run the Project Locally
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/malikmona793-ship-it/TruthcheckAI.git](https://github.com/malikmona793-ship-it/TruthcheckAI.git)
+   ## G. How to Run the Project Locally
+
+1. Clone the repository:
+   git clone https://github.com/malikmona793-ship-it/TruthcheckAI.git
    cd TruthcheckAI
+
+2. Install dependencies:
+   npm install
+
+3. Configure Environment Variables:
+   Create a file named .env in the root directory and add the Gemini API key:
+   GEMINI_API_KEY=your_api_key_here
+
+4. Run the local development server:
+   npm run dev
+
+5. Open your browser and navigate to the local URL shown in your terminal (typically http://localhost:5173 for Vite).
 #  TruthCheck AI – Future Roadmap
 
 ##  Advanced AI & Detection
