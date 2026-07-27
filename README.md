@@ -38,9 +38,7 @@
  <img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/953930b2-01a0-45fb-aea1-1b1e519505c2" />
 
 
-## G. How to Run the Project Locally
 
-1. **Clone the repository:**
    ## G. How to Run the Project Locally
 
 1. Clone the repository:
