@@ -44,27 +44,27 @@
    ```bash
    git clone [https://github.com/malikmona793-ship-it/TruthcheckAI.git](https://github.com/malikmona793-ship-it/TruthcheckAI.git)
    cd TruthcheckAI
-# 🚀 TruthCheck AI – Future Roadmap
+#  TruthCheck AI – Future Roadmap
 
-## 🧠 Advanced AI & Detection
+##  Advanced AI & Detection
 - Improve detection accuracy using more advanced AI and machine learning models.
 - Add deepfake image and video detection.
 - Detect AI-generated voice clones and audio scams.
 - Support multiple languages, including Urdu, English, and regional languages.
 - Continuously update AI models to identify new scams and emerging AI-generated threats.
 
-## 🌐 Platform Expansion
+##  Platform Expansion
 - Develop a browser extension for one-click content verification.
 - Launch dedicated Android and iOS mobile applications.
 - Integrate with trusted fact-checking organizations and news sources for real-time verification.
 - Provide APIs for schools, universities, and organizations to integrate TruthCheck AI into their own systems.
 
-## 👤 User Experience & Community
+##  User Experience & Community
 - Introduce AI Trust Scores with clear explanations and evidence.
 - Add user accounts with verification history, bookmarks, and personalized dashboards.
 - Enable community reporting to identify and flag suspicious content.
 - Send personalized alerts about phishing attacks, fake job offers, scams, and misinformation.
 - Improve the user interface with faster performance and a more accessible design.
 
-## 🎯 Long-Term Vision
+##  Long-Term Vision
 Our goal is to make TruthCheck AI a trusted digital verification platform that helps individuals, students, businesses, and organizations detect fake news, phishing messages, fake job offers, deepfakes, AI-generated content, and online scams with greater speed, accuracy, and reliability.
